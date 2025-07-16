@@ -147,6 +147,5 @@ module.exports = {
     resultadosParaVistaUsuarios,
     impresionTablaUsuario,
     impresionUsuariosConDetalle,
-    solicitarTextoValido,
     mapaCriterios
 };
